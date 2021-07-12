@@ -1,0 +1,12 @@
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.exe
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.deps.json
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.runtimeconfig.json
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.runtimeconfig.dev.json
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.dll
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\bin\Debug\netcoreapp3.1\RTSLabsCodeExercise.pdb
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.AssemblyInfoInputs.cache
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.AssemblyInfo.cs
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.csproj.CoreCompileInputs.cache
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.dll
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.pdb
+C:\Users\shtur\source\repos\RTSLabsCodingExercise\RTSLabsCodeExercise\obj\Debug\netcoreapp3.1\RTSLabsCodeExercise.genruntimeconfig.cache
