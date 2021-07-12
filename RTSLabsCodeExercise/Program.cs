@@ -5,7 +5,8 @@ namespace RTSLabsCodeExercise
 {
     class Program
     {
-
+        //1 Print the number of integers in an array that are above the given input and the number that are below,
+        //e.g. for the array [1, 5, 2, 1, 10] with input 6, print “above: 1, below: 4”
         public static string PrintArrayIntegerAboveAndBelow(int[] intArray, int inputNum)
         {
             int aboveCount = 0;
@@ -26,6 +27,8 @@ namespace RTSLabsCodeExercise
             return $"above: {aboveCount}, below: {belowCount}";
         }
 
+        //2 Rotate the characters in a string by a given input and have the overflow appear at the beginning, e.g.
+        //“MyString” rotated by 2 is “ngMyStri”.
         public static string RotateString(string input, int rotateNum)
         {
             if (input.Length < rotateNum)
@@ -106,12 +109,12 @@ namespace RTSLabsCodeExercise
 
         private static void RunAboveBelowIntegerTest()
         {
-            Console.WriteLine("Enter input for Above Below Array [1, 5, 2, 1, 10]");
+            Console.WriteLine("Enter input for Above Below Array [1, 5, 2, 1, 10, 7, 13, 17, 22]");
             var input = Console.ReadLine();
 
             if (int.TryParse(input, out int parsedInt))
             {
-                var result = PrintArrayIntegerAboveAndBelow(new int[5] { 1, 5, 2, 1, 10 }, parsedInt);
+                var result = PrintArrayIntegerAboveAndBelow(new int[9] { 1, 5, 2, 1, 10, 7, 13, 17, 22 }, parsedInt);
 
                 Console.WriteLine(result + Environment.NewLine);
 
